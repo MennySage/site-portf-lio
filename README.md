@@ -18,18 +18,19 @@ The main goal is create a website with my professional information.
 
 1. clone the project:
 
-...
+```
 git clone https://github.com/MennySage/site-portf-lio.git
-...
 
-25. After clone open the folder:
+```
 
-...
+2. After clone open the folder:
+
+```
 site-portfolio
-...
+```
 
 3. Open the index with the brwser:
 
-...
+```
 Index.html
-...
+```
